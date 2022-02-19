@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: rgba(0, 0, 0, 0.637);
+  color: white;
+}
+
+textarea{
+  font-size: 20px;
+  border-radius:10px;
+  background-color: black;
+  color: white;
+}
+
+div{
+  padding: 10px;
+}
+
+
+select{
+  padding: 5px;
+  margin-right: 50px;
+}
+
+
+button{
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  color: black;
+  border: 2px solid white;
+  border-radius: 5px;
+  background-color: red;
+  font-size: 20px;
+  margin: 10px;
+}
